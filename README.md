@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinosaur20041108
 - 👀 I’m interested in sleeping.
-- 🌱 I’m currently learning C++,python,java,kotlin,php...
+- 🌱 I’m currently learning C++,python,kotlin,js...
 - 💞️ I’m looking to collaborate on NULL
 - 📫 How to reach me :2843565830@qq.com
 - 😄 Pronouns: Chinese
